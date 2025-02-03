@@ -1,0 +1,11 @@
+.Boxmodel{
+    width: 150px;
+    height: 150px;
+    border: 5px solid rgb(30, 30, 31);
+    background-color: rgb(76, 90, 85);
+    padding: 30px;
+    border-radius: 20cm;
+    margin: 10px;
+    
+  }
+  
